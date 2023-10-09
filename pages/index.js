@@ -1,6 +1,14 @@
 function Home() {
-    return <div>Liibra</div>
-
-}
-
-export default Home
+    const centerStyle = {
+      textAlign: "center"
+    };
+  
+    return (
+      <div style={centerStyle}>
+        Liibra
+      </div>
+    );
+  }
+  
+  export default Home;
+  
