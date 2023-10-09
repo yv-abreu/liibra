@@ -5,7 +5,7 @@ function Home() {
   
     return (
       <div style={centerStyle}>
-        Liibra
+        Liibra Legal Information Institute of Brazil - LII Brazil
       </div>
     );
   }
