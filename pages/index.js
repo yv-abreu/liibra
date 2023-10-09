@@ -1,6 +1,6 @@
 function Home() {
     const centerStyle = {
-      textAlign: "center"
+      "textAlign": "center"
     };
   
     return (
